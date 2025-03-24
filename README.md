@@ -60,6 +60,4 @@ This project is **open-source**. 📃
 ## 💡 Author
 👨‍💻 **Chamuditha Weeramanthri**  
 📧 Email: chamudithaweeramanthri@gmail.com  
-🌐 GitHub: [yourusername](https://github.com/chamudithaweeramanthri
-)  
 
